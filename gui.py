@@ -56,7 +56,7 @@ def run_app():
         label="Informacje",
         command=lambda: messagebox.showinfo(
             "O Programie...",
-            "Weight Reader v0.1\nAutor: Marcin Klimczyk \niCS, Colep-CP\n2026"
+            "Weight Reader v0.1\nAutor: Marcin Klimczyk\n2026"
         )
     )
 
